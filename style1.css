@@ -1,0 +1,15 @@
+body{
+    background-color: #180A00;
+    color: white;
+}    
+   
+.cabecalho-lista-item{
+    width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 20px;
+    position: absolute;
+    top: -20px;    
+}
